@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Hong Kong University of Science and Technology under the supervision of [Dr. Sen Li](https://www.smartcityhkust.com/). My research draws diverse techniques from optimization, control, economics, and machine learning to foster efficient, sustainable, and equitable urban transportation systems. Specifically, my recent works focus on (a) the design and optimization of urban mobility systems, (b) the economic analysis of electric mobility systems, and (c) the modeling and regulations of emerging mobility.
+I am a Ph.D. candidate in the Department of Civil and Environmental Engineering at the Hong Kong University of Science and Technology under the supervision of [Dr. Sen Li](https://www.smartcityhkust.com/). My research draws diverse techniques from optimization, control, economics, and machine learning to foster efficient, sustainable, and equitable urban transportation systems. Specifically, my recent works focus on (a) the design and optimization of urban mobility systems, (b) the economic analysis of electric mobility systems, and (c) the modeling and regulations of emerging mobility.
 
 News
 ======
