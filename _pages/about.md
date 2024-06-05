@@ -17,6 +17,7 @@ News
 * 2024/01: I am granted the Overseas Research Award by the HKUST Fok Ying Tung Graduate School for my research visit at University of California, Berkeley.
 * 2024/01: Our paper "Charging Autonomous Electric Vehicle Fleet for Mobility-on-Demand Services: Plug in or Swap out?" is accepted by Transportation Research Part C: Emerging Technologies.
 
+<!--
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -49,3 +50,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
