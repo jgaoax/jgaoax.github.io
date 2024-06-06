@@ -27,7 +27,8 @@ Conference Proccedings
 1. Gao, J., & Li, S. (2024). Evaluating the equity impacts of shared micromobility in multimodal transportation networks. In 103rd Transportation Research Board Annual Meeting.
 2. Gao, J., & Li, S. (2022). Charging infrastructure planning for electrified autonomous mobility-on-demand systems under evolving charging technologies. In 26th International Conference of Hong Kong Society for Transportation Studies.
 3. Gao, J., Lu, Q. L., & Cai, M. (2020). Quantifying privacy vulnerability under linkage attack across multi-source individual mobility data. In 99th Transportation Research Board Annual Meeting.
-4. Gao, J., Sun, L. J., & Cai, M. (2019). Measuring privacy vulnerability of individual mobility traces: a case study of license plate recognition data. In 98th Transportation Research Board Annual Meeting.
+4. Xiong, C., Chen, H., Cai, M., & Gao, J. (2019, July). A Vehicle Trajectory Adversary Model Based on VLPR Data. In 5th International Conference on Transportation Information and Safety (ICTIS) (pp. 903-912). IEEE.
+5. Gao, J., Sun, L. J., & Cai, M. (2019). Measuring privacy vulnerability of individual mobility traces: a case study of license plate recognition data. In 98th Transportation Research Board Annual Meeting.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
