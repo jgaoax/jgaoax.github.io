@@ -18,6 +18,11 @@ Journal
 1. This is one paper.
 2. This is another paper.
 
+Conference Proccedings
+======
+1. This is one conference.
+2. This is another conference.
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
