@@ -11,6 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
+Journal
+======
+1. This is one paper.
+2. This is another paper.
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
