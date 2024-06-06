@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /
+permalink: /_publication/
 author_profile: true
 ---
 
@@ -9,9 +9,10 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-News
+Journal
 ======
-1. This is a test.
+1. This is one paper.
+1. This is another paper.
 
 <!--
 {% include base_path %}
