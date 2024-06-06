@@ -15,8 +15,8 @@ author_profile: true
 
 Journal
 ======
-1. This is one paper.
-2. This is another paper.
+1. Gao, J., & Li, S. (2024). Regulating for-hire autonomous vehicles for an equitable multimodal transportation network. Transportation Research Part B: Methodological, 183, 102925.
+2. Ao, D., Gao, J., Lai, Z., & Li, S. (2024). Regulating transportation network companies with a mixture of autonomous vehicles and for-hire human drivers. Transportation research part A: policy and practice, 180, 103975.
 
 Conference Proccedings
 ======
