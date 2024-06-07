@@ -16,11 +16,11 @@ author_profile: true
 Journal
 ======
 1. **Gao, J.**, & Li, S. (2024). Regulating for-hire autonomous vehicles for an equitable multimodal transportation network. _Transportation Research Part B: Methodological_, 183, 102925.
-2. Ao, D., Gao, J., Lai, Z., & Li, S. (2024). Regulating transportation network companies with a mixture of autonomous vehicles and for-hire human drivers. Transportation research part A: policy and practice, 180, 103975.
-3. Liu, Z. J., Lu, Q. L., & Gao, J. (2024). A similarity-based data-driven car-following model considering driver heterogeneity. Transportation Research Procedia, 78, 611-618.
-4. Gao, J., & Li, S. (2024). Charging autonomous electric vehicle fleet for mobility-on-demand services: Plug in or swap out?. Transportation Research Part C: Emerging Technologies, 158, 104457.
-5. Gao, J., Li, S., & Yang, H. (2022). Shared parking for ride-sourcing platforms to reduce cruising traffic. Transportation Research Part C: Emerging Technologies, 137, 103562.
-6. Gao, J., Sun, L., & Cai, M. (2019). Quantifying privacy vulnerability of individual mobility traces: A case study of license plate recognition data. Transportation research part C: emerging technologies, 104, 78-94.
+2. Ao, D., <u>Gao, J.</u>, Lai, Z., & Li, S. (2024). Regulating transportation network companies with a mixture of autonomous vehicles and for-hire human drivers. _Transportation research part A: policy and practice_, 180, 103975.
+3. Liu, Z. J., Lu, Q. L., & Gao, J. (2024). A similarity-based data-driven car-following model considering driver heterogeneity. _Transportation Research Procedia_, 78, 611-618.
+4. Gao, J., & Li, S. (2024). Charging autonomous electric vehicle fleet for mobility-on-demand services: Plug in or swap out?. _Transportation Research Part C: Emerging Technologies_, 158, 104457.
+5. Gao, J., Li, S., & Yang, H. (2022). Shared parking for ride-sourcing platforms to reduce cruising traffic. _Transportation Research Part C: Emerging Technologies_, 137, 103562.
+6. Gao, J., Sun, L., & Cai, M. (2019). Quantifying privacy vulnerability of individual mobility traces: A case study of license plate recognition data. _Transportation research part C: emerging technologies_, 104, 78-94.
 
 Conference Proccedings
 ======
