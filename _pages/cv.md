@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* CV in PDF
+* [CV in PDF](https://jgaoax.github.io/files/CV_JG.pdf)
 
 Education
 ======
