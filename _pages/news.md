@@ -7,27 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-* CV in PDF
-
-Education
+News
 ======
-* Ph.D. candidate in Civil Engineering, Hong Kong University of Science and Technology, 2020 - present
-* B.S. in Traffic Engineering, Sun Yat-sen University, 2014 - 2018
-
-Academic experience
-======
-* Visiting Student, University of California, Berkeley, Hosted by Prof. Kameshwar Poolla, 2024.05 - present
-
-Awards & Honors
-======
-* Hong Kong PhD Fellowship Scheme, 2020 - 2024
-* Overseas Research Award, Hong Kong University of Science and Technology, 2024
-* Redbird PhD Award, Hong Kong University of Science and Technology, 2021 - 2022
-* National Scholarship, 2016 - 2017
-* First-class Fellowship, Sun Yat-sen University, 2015 - 2017 
-* Meritorious Winner, The International Mathematical Contest in Modeling, 2016
-* National First Price, Contemporary Undergraduate Mathematical Contest in Modeling, 2016
-* National Encouragement Scholarship, 2015
-
+* 2024/05: I started my research visit at the Department of Mechanical Engineering, University of California, Berkeley, hosted by [Prof. Kameshwar Poolla](https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html).
+* 2024/03: Our paper "Regulating For-Hire Autonomous Vehicles for An Equitable Multimodal Transportation Network" was accepted by Transportation Research Part B: Methodological.
+* 2024/02: Our paper "Regulating Transportation Network Companies with a Mixture of Autonomous Vehicles and For-Hire Human Drivers" was accepted by Transportation Research Part A: Policy and Practice.
+* 2024/01: I presented our work "Evaluating the equity impacts of shared micromobility in multimodal transportation networks" in 103rd Transportation Research Board Annual Meeting in Washington DC, US.
+* 2024/01: I was granted the Overseas Research Award by the HKUST Fok Ying Tung Graduate School for my research visit at University of California, Berkeley.
+* 2024/01: Our paper "Charging Autonomous Electric Vehicle Fleet for Mobility-on-Demand Services: Plug in or Swap out?" was accepted by Transportation Research Part C: Emerging Technologies.
 
 
