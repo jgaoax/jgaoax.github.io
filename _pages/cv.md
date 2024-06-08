@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. candidate in Civil Engineering, Hong Kong University of Science and Technology, 2020 - 2024 (expected)
+* Ph.D. candidate in Civil Engineering, Hong Kong University of Science and Technology, 2020 - present
 * B.S. in Traffic Engineering, Sun Yat-sen University, 2014 - 2018
 
 Academic experience
