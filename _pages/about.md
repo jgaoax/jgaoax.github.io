@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Civil and Environmental Engineering at the Hong Kong University of Science and Technology under the supervision of [Dr. Sen Li](https://www.smartcityhkust.com/). My research draws diverse techniques from optimization, control, economics, and machine learning to foster efficient, sustainable, and equitable urban transportation systems. Specifically, my recent works focus on (a) the design and optimization of urban mobility systems, (b) the economic analysis of electric mobility systems, and (c) the modeling and regulations of emerging mobility.
+I am a Ph.D. candidate in the Department of Civil and Environmental Engineering at the Hong Kong University of Science and Technology under the supervision of [Dr. Sen Li](https://www.smartcityhkust.com/). My research interests encompass the application of diverse techniques from optimization, control, economics, and machine learning to foster efficient, sustainable, and equitable mobility ecosystems. My doctoral research primarily focuses on the design, modeling, and analysis of shared mobility systems, including ride-hailing, autonomous mobility-on-demand, shared micromobility, etc. Specifically, my recent works have centered around the regulation of shared mobility in interaction with public transport within multimodal transportation systems, with a particular emphasis on transport equity.
 
 News
 ======
+* 2024/07: I was granted the HKUST RedBird Academic Excellence Award in the 2023-2024 Academic year by the HKUST Fok Ying Tung Graduate School.
 * 2024/05: I started my research visit at the Department of Mechanical Engineering, University of California, Berkeley, hosted by [Prof. Kameshwar Poolla](https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html).
 * 2024/03: Our paper "Regulating For-Hire Autonomous Vehicles for An Equitable Multimodal Transportation Network" was accepted by Transportation Research Part B: Methodological.
 * 2024/02: Our paper "Regulating Transportation Network Companies with a Mixture of Autonomous Vehicles and For-Hire Human Drivers" was accepted by Transportation Research Part A: Policy and Practice.
