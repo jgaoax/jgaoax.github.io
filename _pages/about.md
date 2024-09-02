@@ -11,6 +11,7 @@ I am a Ph.D. candidate in the Department of Civil and Environmental Engineering 
 
 News
 ======
+* 2024/08: Our paper "Synergizing shared micromobility and public transit towards an equitable multimodal transportation network" was accepted by Transportation Research Part A: Policy and Practice.
 * 2024/07: I was granted the HKUST RedBird Academic Excellence Award in the 2023-2024 Academic year by the HKUST Fok Ying Tung Graduate School.
 * 2024/05: I started my research visit at the Department of Mechanical Engineering, University of California, Berkeley, hosted by [Prof. Kameshwar Poolla](https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html).
 * 2024/03: Our paper "Regulating For-Hire Autonomous Vehicles for An Equitable Multimodal Transportation Network" was accepted by Transportation Research Part B: Methodological.
