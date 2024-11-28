@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* 2024/10: I have successfully defended my doctoral thesis, entitled 'Regulating shared mobility  and transportation network companies: from efficiency to equity'. Many thanks to guidance and suggestions from the Committee members: Prof. Xiaowen Fu, Prof. Hai Yang, Prof. Sen Li, Prof. Sisi Jian, Prof. Zhongming Lu, and Prof. Jonathan Eugene Halpert.
 * 2024/08: Our paper "Synergizing shared micromobility and public transit towards an equitable multimodal transportation network" was accepted by Transportation Research Part A: Policy and Practice.
 * 2024/07: I was granted the HKUST RedBird Academic Excellence Award in the 2023-2024 Academic year by the HKUST Fok Ying Tung Graduate School.
 * 2024/05: I started my research visit at the Department of Mechanical Engineering, University of California, Berkeley, hosted by [Prof. Kameshwar Poolla](https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html).
