@@ -13,12 +13,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D. candidate in Civil Engineering, Hong Kong University of Science and Technology, 2020 - present
+* Ph.D. in Civil Engineering, Hong Kong University of Science and Technology, 2020 - 2024
 * B.S. in Traffic Engineering, Sun Yat-sen University, 2014 - 2018
 
 Academic experience
 ======
-* Visiting Student, University of California, Berkeley, Hosted by Prof. Kameshwar Poolla, 2024.05 - present
+* Visiting Student, University of California, Berkeley, Hosted by Prof. Kameshwar Poolla, 2024.05 - 2024.09
 
 Awards & Honors
 ======
