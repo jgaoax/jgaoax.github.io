@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor in the Department of Logistics and Maritime Studies at The Hong Kong Polytechnic University. I received a Ph.D. degree in Civil Engineering at The Hong Kong University of Science and Technology in 2024, and a B.S. degree in Traffic Engineering at Sun Yat-sen University in 2018. My research focuses on the intersection of diverse techniques including optimisation, control, economics, and machine learning to advance efficient, sustainable, and equitable mobility ecosystems. My research interests include
+I am a Research Assistant Professor in the Department of Logistics and Maritime Studies at The Hong Kong Polytechnic University. I received a Ph.D. degree in Civil Engineering at The Hong Kong University of Science and Technology in 2024, and a B.S. degree in Traffic Engineering at Sun Yat-sen University in 2018. My research focuses on the intersection of diverse techniques including optimisation, control, economics, and machine learning to advance efficient, sustainable, and equitable mobility ecosystems. My research interests include:
 - Design and analysis of intelligent transport systems
 - Regulation of emerging mobility services
 - Integrated coordination of transportation and power infrastructures
