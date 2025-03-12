@@ -14,6 +14,7 @@ I am a Research Assistant Professor in the Department of Logistics and Maritime 
 - Multimodal transportation network modelling
 - Data-driven modelling and optimisation
 
+
 News
 ======
 * 2024/10: I successfully defended my doctoral thesis, entitled 'Regulating shared mobility services and transportation network companies: from efficiency to equity'.
