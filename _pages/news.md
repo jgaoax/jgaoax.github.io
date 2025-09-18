@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+* 2025/09: Our paper "Integrated operation of ride-hailing and shared micromobility services in multimodal transportation networks with public transit: The unintended consequences of regulations" was accepted by Transportation Research Part C: Emerging Technologies.
+* 2025/01: I joined the Department of Logistics and Maritime Studies at The Hong Kong Polytechnic University as a Research Assistant Professor.
 * 2024/10: I successfully defended my doctoral thesis, entitled 'Regulating shared mobility services and transportation network companies: from efficiency to equity'.
 * 2024/08: Our paper "Synergizing shared micromobility and public transit towards an equitable multimodal transportation network" was accepted by Transportation Research Part A: Policy and Practice.
 * 2024/07: I was granted the HKUST RedBird Academic Excellence Award in the 2023-2024 Academic year by the HKUST Fok Ying Tung Graduate School.

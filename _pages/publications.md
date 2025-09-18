@@ -15,6 +15,7 @@ author_profile: true
 
 Journal
 ======
+1. **Gao, J.**, & Li, S. (2025). Integrated operation of ride-hailing and shared micromobility services in multimodal transportation networks with public transit: The unintended consequences of regulations. _Transportation Research Part C: Emerging Technologies_, 180, 105340.
 1. **Gao, J.**, & Li, S. (2024). Synergizing shared micromobility and public transit towards an equitable multimodal transportation network. _Transportation Research Part A: Policy and Practice_, 189, 104225.
 1. **Gao, J.**, & Li, S. (2024). Regulating for-hire autonomous vehicles for an equitable multimodal transportation network. _Transportation Research Part B: Methodological_, 183, 102925.
 2. Ao, D., **Gao, J.**, Lai, Z., & Li, S. (2024). Regulating transportation network companies with a mixture of autonomous vehicles and for-hire human drivers. _Transportation research part A: policy and practice_, 180, 103975.
