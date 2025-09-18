@@ -3,7 +3,7 @@ title: "Aviation Finance"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-aviation-finance
-venue: "The Hong Kong Polytechnic University, Logistics and Maritime Studies"
+venue: "The Hong Kong Polytechnic University, Department of Logistics and Maritime Studies"
 date: 2025-09-01
 location: "Hong Kong"
 ---
