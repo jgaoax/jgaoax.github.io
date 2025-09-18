@@ -24,10 +24,10 @@ author:
   avatar           : "profile.jpg"
   name             : "Dr. Jing Gao"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant Professor at The Hong Kong Polytechnic University"
+  bio              : "Research Assistant Professor at PolyU"
   location         : "Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
-  uri              : "https://jgaoax.github.io"
+  # uri              : "https://jgaoax.github.io"
   email            : "jing.gao@polyu.edu.hk" 
 
   # Academic websites
