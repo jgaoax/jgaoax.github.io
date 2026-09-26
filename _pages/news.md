@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+* 2026/09: Our paper “Real-time order assignment for ride-sharing platforms with a mixture of pre-booked and on-demand requests” was accepted by *Transportation Research Part C: Emerging Technologies*.
+* 2026/07: We presented two papers at the 29th Air Transport Research Society (ATRS) World Conference in Beijing: “Insurance, scheduling, and itinerary pricing under flight and high speed train coopetition” and “Bridging Technology and Markets: Optimizing the Global SAF Supply Chain for Green Aviation”.
+* 2026/06: Our paper “Regulating curbside parking for tourist coaches in Bi-Modal transportation networks” was published in *Transportation Research Part C: Emerging Technologies*.
+* 2025/12: I gave an oral presentation of “Impacts of TNC regulations under integrated operation of ride-hailing and shared micromobility services in multimodal transportation networks” at the 29th International Conference of the Hong Kong Society for Transportation Studies (HKSTS) in Hong Kong.
 * 2025/09: Our paper "Integrated operation of ride-hailing and shared micromobility services in multimodal transportation networks with public transit: The unintended consequences of regulations" was accepted by Transportation Research Part C: Emerging Technologies.
 * 2025/01: I joined the Department of Logistics and Maritime Studies at The Hong Kong Polytechnic University as a Research Assistant Professor.
 * 2024/10: I successfully defended my doctoral thesis, entitled 'Regulating shared mobility services and transportation network companies: from efficiency to equity'.

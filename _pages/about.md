@@ -2,32 +2,30 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Research Assistant Professor in the Department of Logistics and Maritime Studies at The Hong Kong Polytechnic University. I received a Ph.D. degree in Civil Engineering at The Hong Kong University of Science and Technology in 2024, and a B.S. degree in Traffic Engineering at Sun Yat-sen University in 2018. My research focuses on the intersection of diverse techniques including optimisation, control, economics, and machine learning to advance efficient, sustainable, and equitable mobility ecosystems. My research interests include:
-- Design and analysis of intelligent transport systems
-- Regulation of emerging mobility services
-- Integrated coordination of transportation and power infrastructures
-- Multimodal transportation network modelling
-- Data-driven modelling and optimisation
+I am a Research Assistant Professor in the Department of Logistics and Maritime Studies at The Hong Kong Polytechnic University. I received a Ph.D. in Civil Engineering from The Hong Kong University of Science and Technology in 2024 and a B.S. in Traffic Engineering from Sun Yat-sen University in 2018. I develop optimisation and data-driven methods for decision-making in complex service and infrastructure systems. My work connects platform operations, logistics, aviation, and mobility, including the coordinated management of transportation and power systems.
 
+## Research interests
 
-News
-======
-* 2025/09: Our paper "Integrated operation of ride-hailing and shared micromobility services in multimodal transportation networks with public transit: The unintended consequences of regulations" was accepted by Transportation Research Part C: Emerging Technologies.
-* 2025/01: I joined the Department of Logistics and Maritime Studies at The Hong Kong Polytechnic University as a Research Assistant Professor.
-* 2024/10: I successfully defended my doctoral thesis, entitled 'Regulating shared mobility services and transportation network companies: from efficiency to equity'.
-* 2024/08: Our paper "Synergizing shared micromobility and public transit towards an equitable multimodal transportation network" was accepted by Transportation Research Part A: Policy and Practice.
-* 2024/07: I was granted the HKUST RedBird Academic Excellence Award in the 2023-2024 Academic year by the HKUST Fok Ying Tung Graduate School.
-* 2024/05: I started my research visit at the Department of Mechanical Engineering, University of California, Berkeley, hosted by Prof. Kameshwar Poolla.
-* 2024/03: Our paper "Regulating For-Hire Autonomous Vehicles for An Equitable Multimodal Transportation Network" was accepted by Transportation Research Part B: Methodological.
-* 2024/02: Our paper "Regulating Transportation Network Companies with a Mixture of Autonomous Vehicles and For-Hire Human Drivers" was accepted by Transportation Research Part A: Policy and Practice.
-* 2024/01: I presented our work "Evaluating the equity impacts of shared micromobility in multimodal transportation networks" in 103rd Transportation Research Board Annual Meeting in Washington DC, US.
-* 2024/01: I was granted the Overseas Research Award by the HKUST Fok Ying Tung Graduate School for my research visit at University of California, Berkeley.
-* 2024/01: Our paper "Charging Autonomous Electric Vehicle Fleet for Mobility-on-Demand Services: Plug in or Swap out?" was accepted by Transportation Research Part C: Emerging Technologies.
+- Platform economics, operations, and regulation
+- Management science, data-driven optimisation, and machine learning for service systems
+- Transportation–power system optimisation and management
+- Aviation finance, sustainable aviation, and supply-chain management
+- Emerging mobility and multimodal network analysis
+
+## News
+
+* 2026/09: Our paper “Real-time order assignment for ride-sharing platforms with a mixture of pre-booked and on-demand requests” was accepted by *Transportation Research Part C: Emerging Technologies*.
+* 2026/07: We presented two papers on flight–high-speed rail coordination and sustainable aviation fuel supply chains at the 29th ATRS World Conference in Beijing.
+* 2026/06: Our paper “Regulating curbside parking for tourist coaches in Bi-Modal transportation networks” was published in *Transportation Research Part C: Emerging Technologies*.
+* 2025/12: I gave an oral presentation on ride-hailing and shared micromobility regulation at the 29th HKSTS International Conference in Hong Kong.
+* 2025/09: Our paper “Integrated operation of ride-hailing and shared micromobility services in multimodal transportation networks with public transit: The unintended consequences of regulations” was accepted by *Transportation Research Part C: Emerging Technologies*.
+
+[More news](/news/)
 
 <!--
 Getting started
