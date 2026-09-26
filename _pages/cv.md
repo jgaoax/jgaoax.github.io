@@ -7,29 +7,24 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my current CV (PDF)](/files/CV_JG.pdf)
 
-* [CV in PDF](https://jgaoax.github.io/files/CV_JG.pdf)
+## Current appointment
 
-Education
-======
-* Ph.D. in Civil Engineering, Hong Kong University of Science and Technology, 2020 - 2024
-* B.S. in Traffic Engineering, Sun Yat-sen University, 2014 - 2018
+Research Assistant Professor, Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University (since January 2025).
 
-Academic experience
-======
-* Visiting Student, University of California, Berkeley, Hosted by Prof. Kameshwar Poolla, 2024.05 - 2024.09
+## Education
 
-Awards & Honors
-======
-* Hong Kong PhD Fellowship Scheme, 2020 - 2024
-* Overseas Research Award, Hong Kong University of Science and Technology, 2024
-* Redbird PhD Award, Hong Kong University of Science and Technology, 2021 - 2022
-* National Scholarship, 2016 - 2017
-* First-class Fellowship, Sun Yat-sen University, 2015 - 2017 
-* Meritorious Winner, The International Mathematical Contest in Modeling, 2016
-* National First Price, Contemporary Undergraduate Mathematical Contest in Modeling, 2016
-* National Encouragement Scholarship, 2015
+- PhD in Civil Engineering, The Hong Kong University of Science and Technology (2024)
+- BS in Traffic Engineering, Sun Yat-sen University (2018)
 
+## Teaching
 
+- Introduction to Artificial Intelligence and Data Analytics in Business
+- Aviation Finance
 
+## Selected awards
+
+- Overseas Research Award, The Hong Kong University of Science and Technology (2024)
+- Redbird PhD Award, The Hong Kong University of Science and Technology (2020–2024)
+- Hong Kong PhD Fellowship, University Grants Committee (2020)
