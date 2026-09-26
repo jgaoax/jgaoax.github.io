@@ -23,8 +23,13 @@ Research Assistant Professor, Department of Logistics and Maritime Studies, The 
 - Introduction to Artificial Intelligence and Data Analytics in Business
 - Aviation Finance
 
-## Selected awards
+## Awards and honors
 
 - Overseas Research Award, The Hong Kong University of Science and Technology (2024)
 - Redbird PhD Award, The Hong Kong University of Science and Technology (2020–2024)
 - Hong Kong PhD Fellowship, University Grants Committee (2020)
+- National Scholarship (2016–2017)
+- First-class Fellowship, Sun Yat-sen University (2015–2017)
+- Meritorious Winner, The International Mathematical Contest in Modeling (2016)
+- National First Prize, Contemporary Undergraduate Mathematical Contest in Modeling (2016)
+- National Encouragement Scholarship (2015)
