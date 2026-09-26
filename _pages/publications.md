@@ -15,7 +15,9 @@ author_profile: true
 
 ## Journal articles
 
-1. Zhao, Z., **Gao, J.**, & Li, S. (2027). Real-time order assignment for ride-sharing platforms with a mixture of pre-booked and on-demand requests. _Transportation Research Part C: Emerging Technologies_, 194, 106036.
+<sup>*</sup> Corresponding author.
+
+1. Zhao, Z., **Gao, J.**<sup>*</sup>, & Li, S. (2027). Real-time order assignment for ride-sharing platforms with a mixture of pre-booked and on-demand requests. _Transportation Research Part C: Emerging Technologies_, 194, 106036.
 1. Yang, X., Dong, T., **Gao, J.**, & Li, S. (2026). Regulating curbside parking for tourist coaches in Bi-Modal transportation networks. _Transportation Research Part C: Emerging Technologies_, 187, 105666.
 1. **Gao, J.**, & Li, S. (2025). Integrated operation of ride-hailing and shared micromobility services in multimodal transportation networks with public transit: The unintended consequences of regulations. _Transportation Research Part C: Emerging Technologies_, 180, 105340.
 1. **Gao, J.**, & Li, S. (2024). Synergizing shared micromobility and public transit towards an equitable multimodal transportation network. _Transportation Research Part A: Policy and Practice_, 189, 104225.
